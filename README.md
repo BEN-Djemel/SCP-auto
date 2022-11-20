@@ -9,6 +9,6 @@
 
 ## Installation
 ```
-1. cd SCP-auto && chmod +x SCP-auto.sh
-2. ./SCP-auto.sh
+1. cd SCP-auto && chmod +x scp-auto.sh
+2. ./scp-auto.sh
 ```
